@@ -32,7 +32,6 @@
       acc
       (recur (* acc n) (dec n)))))
 
-
 #_ (factorial 0)
 #_ (factorial 2)
 #_ (factorial 3)
